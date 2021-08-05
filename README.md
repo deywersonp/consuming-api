@@ -52,8 +52,7 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 - Type `git clone`
 - Insert the HTTP or SSH key (on windows, shift + insert to paste on gitBash)
 - You can find this HTTP or SSH Key by clicking on `Code` on the top right in this repository
-![image](https://user-images.githubusercontent.com/79553681/128068213-d61ece54-50c0-4570-9bc4-7771878e6ae8.png)
-
+![image](https://user-images.githubusercontent.com/79553681/128399713-72b5f6bc-0cbe-4b52-a6cd-bf1999a6c792.png)
 
 - Once cloned you can open the project in your IDE and enter the codes below in the IDE terminal
 
